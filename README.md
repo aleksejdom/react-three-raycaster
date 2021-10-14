@@ -1,5 +1,8 @@
-# BASIC OBJECT COLLISION WITH REACT THREE FIBER
+# RAYCASTER WITH REACT THREE FIBER 
+Demo: https://aleksejdom.github.io/react-three-raycaster/
+
 Keyboard keys for moving = Arrow UP, Down, Left, Right
+
 # Colidable Objects (Obstacle.jsx)
 for handling the collidable Objects
 # Collision and Raycast (Collision.jsx)
