@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+#healthLabel{
+  position:absolute;
+  left: 2rem;
+  top: 2rem;
+  color: white;
+  z-index: 1;
+}
