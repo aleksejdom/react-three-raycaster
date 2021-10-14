@@ -1,5 +1,6 @@
 {
-  "name": "basic_collision_raycaster",
+  "homepage":"https://aleksejdom.github.io/react-three-raycaster/",
+  "name": "react-three-raycaster",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
