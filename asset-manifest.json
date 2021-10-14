@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-three-raycaster/static/css/main.284bb9d5.chunk.css",
-    "main.js": "/react-three-raycaster/static/js/main.aecb5b47.chunk.js",
-    "main.js.map": "/react-three-raycaster/static/js/main.aecb5b47.chunk.js.map",
-    "runtime-main.js": "/react-three-raycaster/static/js/runtime-main.7a1cab1c.js",
-    "runtime-main.js.map": "/react-three-raycaster/static/js/runtime-main.7a1cab1c.js.map",
-    "static/js/2.41b33278.chunk.js": "/react-three-raycaster/static/js/2.41b33278.chunk.js",
-    "static/js/2.41b33278.chunk.js.map": "/react-three-raycaster/static/js/2.41b33278.chunk.js.map",
-    "static/js/3.e8a65a70.chunk.js": "/react-three-raycaster/static/js/3.e8a65a70.chunk.js",
-    "static/js/3.e8a65a70.chunk.js.map": "/react-three-raycaster/static/js/3.e8a65a70.chunk.js.map",
-    "index.html": "/react-three-raycaster/index.html",
-    "static/css/main.284bb9d5.chunk.css.map": "/react-three-raycaster/static/css/main.284bb9d5.chunk.css.map",
-    "static/js/2.41b33278.chunk.js.LICENSE.txt": "/react-three-raycaster/static/js/2.41b33278.chunk.js.LICENSE.txt"
+    "main.css": "/react-three-raycaster.git/static/css/main.284bb9d5.chunk.css",
+    "main.js": "/react-three-raycaster.git/static/js/main.aecb5b47.chunk.js",
+    "main.js.map": "/react-three-raycaster.git/static/js/main.aecb5b47.chunk.js.map",
+    "runtime-main.js": "/react-three-raycaster.git/static/js/runtime-main.7da21a27.js",
+    "runtime-main.js.map": "/react-three-raycaster.git/static/js/runtime-main.7da21a27.js.map",
+    "static/js/2.41b33278.chunk.js": "/react-three-raycaster.git/static/js/2.41b33278.chunk.js",
+    "static/js/2.41b33278.chunk.js.map": "/react-three-raycaster.git/static/js/2.41b33278.chunk.js.map",
+    "static/js/3.e8a65a70.chunk.js": "/react-three-raycaster.git/static/js/3.e8a65a70.chunk.js",
+    "static/js/3.e8a65a70.chunk.js.map": "/react-three-raycaster.git/static/js/3.e8a65a70.chunk.js.map",
+    "index.html": "/react-three-raycaster.git/index.html",
+    "static/css/main.284bb9d5.chunk.css.map": "/react-three-raycaster.git/static/css/main.284bb9d5.chunk.css.map",
+    "static/js/2.41b33278.chunk.js.LICENSE.txt": "/react-three-raycaster.git/static/js/2.41b33278.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a1cab1c.js",
+    "static/js/runtime-main.7da21a27.js",
     "static/js/2.41b33278.chunk.js",
     "static/css/main.284bb9d5.chunk.css",
     "static/js/main.aecb5b47.chunk.js"
