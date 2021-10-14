@@ -1,4 +1,7 @@
 # RAYCASTER WITH REACT THREE FIBER 
+
+![screen](https://user-images.githubusercontent.com/45975492/137399576-86de987d-3ccd-4750-9c14-55fb31a3b9b8.JPG)
+
 Demo: https://aleksejdom.github.io/react-three-raycaster/
 
 Keyboard keys for moving = Arrow UP, Down, Left, Right
